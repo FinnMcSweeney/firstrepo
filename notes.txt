@@ -1,0 +1,36 @@
+Why git?
+
+    - Version Control System
+
+    - Collaborator with other programmers
+
+        - Using other people's code, open source software
+
+        - In your teams, hobby projects, work projects
+
+            - "Live coding" code merging tool
+
+            - being the rookie on the team, and getting your bearings and
+            ultimately contributing to the codebase
+
+        key utility
+        - Getting other people's code
+        - Contributing your own code
+
+Commands:
+
+    - git status:
+        takes no actions: doesnt hurt to run
+    - git init:
+        only run once at beginning
+
+
+
+
+Terms:
+
+    - local
+    - remote
+
+  git config --global user.email "fmcsween@me.com"
+  git config --global user.name "fmcsween"
